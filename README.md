@@ -1,4 +1,4 @@
-### Olá, eu sou o Anderson Marques 👋
+### Olá, eu sou o Anderson Marques 👋🏾
 📚 Estudando Javascript e Reactjs
  <div>
   <a href="https://github.com/andermarques">

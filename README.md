@@ -14,6 +14,7 @@
   <img align="center" alt="Ander-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ander-Arduino" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg">
   <img align="center" alt="Ander-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> 
+  <img align="center" alt="andermarques"  src="https://komarev.com/ghpvc/?username=andermarques&color=green" /> 
 </div>
  
 ##
